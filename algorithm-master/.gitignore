@@ -1,0 +1,16 @@
+._.DS_Store
+.class
+*/._.DS_Store
+exam/
+/bin/
+.project
+/.settings
+.classpath
+*/target/
+.idea/
+*.iml
+电信算法竞赛
+oj/
+datastructure/
+
+
